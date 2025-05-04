@@ -1,0 +1,12 @@
+<x-layout>
+    <x-navbar></x-navbar>
+    <x-hero></x-hero>
+    <x-study></x-study>
+    <x-scedule></x-scedule>
+    <x-project></x-project>
+    <x-skill></x-skill>
+    <x-kutip></x-kutip>
+    <x-email></x-email>
+    <x-client></x-client>
+    <x-footer></x-footer>
+</x-layout>
